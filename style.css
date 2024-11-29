@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'hdr';
-    src: url('fonts/disket.woff') format('woff');
+    src: url('fonts/redaction.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'cstm';
-    src: url('fonts/disket.woff') format('woff');
+    src: url('fonts/instrmtserif.woff') format('woff');
 }
