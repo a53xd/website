@@ -7,3 +7,17 @@
     font-family: 'cstm';
     src: url('fonts/instrmtserif.woff') format('woff');
 }
+
+.container {
+    text-align: left; /* Centers text horizontally within the container */
+    float: bottom; /* Aligns the container to the left */
+    width: 100%; /* Adjust the width as needed */
+  }
+
+  .lowrd {
+    margin-top: 20px; /* Adjust the value as needed */
+}
+
+.lnk {
+    color: #555986;
+  }
